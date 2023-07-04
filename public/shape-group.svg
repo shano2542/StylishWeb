@@ -1,0 +1,32 @@
+<svg width="566" height="667" viewBox="0 0 566 667" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_637" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="26" y="499" width="148" height="143">
+<ellipse cx="72.784" cy="71.4131" rx="72.784" ry="71.4131" transform="matrix(0.87444 0.485134 -0.515015 0.857181 73.5586 473.952)" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_637)">
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 71.6216 458.776)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 81.1678 464.072)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 89.918 468.927)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 99.4662 474.224)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 109.012 479.52)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 117.764 484.375)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 127.311 489.672)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 136.857 494.968)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 145.608 499.823)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 155.156 505.12)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 164.702 510.416)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 172.658 514.83)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 182.999 520.568)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 191.751 525.423)" fill="#086436"/>
+<rect width="1.8196" height="151.753" transform="matrix(0.87444 0.485134 -0.515015 0.857181 201.299 530.72)" fill="#086436"/>
+</g>
+<rect x="248.156" width="6.08977" height="5.85186" fill="#FB6D52"/>
+<rect opacity="0.25944" x="469.129" y="646.212" width="6.08977" height="5.85186" fill="#F96F60"/>
+<rect opacity="0.2457" x="21.9651" y="290.085" width="13.9195" height="13.3757" fill="#F96F60"/>
+<rect x="552.646" y="258.318" width="8.69968" height="8.3598" fill="#FB6D52"/>
+<path d="M47.1983 34.7856L56.7715 27.1279" stroke="#072A3D" stroke-width="2"/>
+<path d="M48.5331 26.6527L56.277 35.0444" stroke="#072A3D" stroke-width="2"/>
+<path d="M268.465 645.318L267.368 635.487" stroke="#072A3D" stroke-width="2"/>
+<path d="M263.223 640.695L272.611 640.11" stroke="#072A3D" stroke-width="2"/>
+<ellipse cx="560.454" cy="471.727" rx="4.20615" ry="4.03778" stroke="#072A3D" stroke-width="2"/>
+<path d="M539.803 27.5623L546.691 34.1749" stroke="#072A3D" stroke-width="2"/>
+</svg>
